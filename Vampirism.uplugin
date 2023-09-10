@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Vampirism",
+	"Description": "Take damage when you're in direct sunlight",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.1",
+			"Enabled": true
+		},
+		{
+			"Name": "TouchGrass",
+			"SemVersion": "^1.0.0",
+			"Enabled": true
+		}
+	]
+}

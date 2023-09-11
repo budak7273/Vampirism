@@ -1,3 +1,5 @@
+Initial release! A new twist on playing Satisfactory. Standing in direct sunlight heats you up, and if you get too hot, you'll start taking damage. Staying in the shadows of the environment and your buildings will keep you safe.
+
 # Vampirism
 
 **Multiplayer compatible!**
@@ -43,3 +45,4 @@ You can configure:
 
 - Erufuun for the idea for the mod
 - D4rk for implementation and optimization ideas, as well as figuring out how the "take damage reticle" works
+

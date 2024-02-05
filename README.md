@@ -17,7 +17,8 @@ The shade provided by small plants is not sufficient protection, but your own bu
 Upon first installing the mod (or starting a new game)
 the world will be set to midnight so the first day is not unplayable,
 especially if you chose to not skip the tutorial.
-You can disable this in the mod configs if you don't like it.
+You can disable this in the [mod savegame settings](https://docs.ficsit.app/satisfactory-modding/latest/ForUsers/ConfiguringMods.html#_mod_savegame_settings)
+if you don't like it.
 
 The check to determine if you're in sunlight draws from your head to the position of the sun, so your "safe areas" will change as the time of day changes and shadows move.
 
@@ -30,7 +31,7 @@ Consider using the [SkyUI mod](https://ficsit.app/mod/SkyUI) to modify the lengt
 You can configure:
 
 - How many seconds of "heat tolerance" you have before you start taking damage
-- How much damage you take when overheating
+- How much damage you take when overheating, and how frequently it is applied
 - Whether or not the game is set to night when you start a new world.
 
 ## Maybe™ Future Plans

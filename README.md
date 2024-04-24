@@ -44,3 +44,4 @@ You can configure:
 
 - Erufuun for the idea for the mod
 - D4rk for implementation and optimization ideas, as well as figuring out how the "take damage reticle" works
+- Icon by Deantendo. Icon asset attribution: <https://www.flaticon.com/free-icon/fangs_249417>

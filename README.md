@@ -2,6 +2,8 @@
 
 **Multiplayer compatible!**
 
+_If you enjoy my work, please consider donating to my [completely optional tip jar](https://ko-fi.com/robb4)._
+
 A new twist on playing Satisfactory.
 Standing in direct sunlight heats you up, and if you get too hot, you'll start taking damage.
 Staying in the shadows will cool you down.
@@ -10,6 +12,7 @@ A meter displaying your heat level appears above your health bar when you have h
 
 The shade provided by small plants is not sufficient protection, but your own buildings, glass windows, large creatures, as well as larger terrain elements such as rocks and the trunks of trees, will protect you. So will swimming in water.
 
+<!-- markdownlint-disable MD033 -->
 <video controls="" width="720" height="405">
   <source src="https://raw.githubusercontent.com/budak7273/Vampirism/main/ModpageAssets/Demo.mp4" autoplay="false" controls="true" type="video/mp4">
 </video>

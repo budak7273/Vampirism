@@ -10,7 +10,7 @@ Staying in the shadows will cool you down.
 Once the sun goes down you are free to roam without fear of overheating until the next day.
 A meter displaying your heat level appears above your health bar when you have heat.
 
-The shade provided by small plants is not sufficient protection, but your own buildings, glass windows, large creatures, as well as larger terrain elements such as rocks and the trunks of trees, will protect you. So will swimming in water.
+The shade provided by small plants and leaves is not sufficient protection, but your own buildings, glass windows, large creatures, as well as larger terrain elements such as rocks and the trunks of trees, will protect you. So will swimming in water.
 
 <!-- markdownlint-disable MD033 -->
 <video controls="" width="720" height="405">
@@ -31,7 +31,7 @@ Consider using the [SkyUI mod](https://ficsit.app/mod/SkyUI) to modify the lengt
 
 ## Configuration
 
-You can configure:
+In the "Mod Savegame Settings" menu for each world, you can configure:
 
 - How many seconds of "heat tolerance" you have before you start taking damage
 - How much damage you take when overheating, and how frequently it is applied
@@ -45,6 +45,7 @@ You can configure:
 
 ## Credits
 
+<!-- cspell:ignore Erufuun -->
 - Erufuun for the idea for the mod
 - D4rk for implementation and optimization ideas, as well as figuring out how the "take damage reticle" works
 - Icon by Deantendo. Icon asset attribution: <https://www.flaticon.com/free-icon/fangs_249417>

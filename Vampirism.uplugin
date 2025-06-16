@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
-	"SemVersion": "1.1.1",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "Vampirism",
 	"Description": "Take damage when you're in direct sunlight",
 	"Category": "Modding",
@@ -18,14 +18,14 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.9.0",
+			"SemVersion": "^3.11.1",
 			"Enabled": true
 		},
 		{
 			"Name": "TouchGrass",
-			"SemVersion": "^1.1.1",
+			"SemVersion": "^1.1.2",
 			"Enabled": true
 		}
 	],
-	"GameVersion": ">=383729"
+	"GameVersion": ">=416835"
 }
